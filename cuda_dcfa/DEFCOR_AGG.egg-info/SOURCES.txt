@@ -1,0 +1,8 @@
+setup.py
+/home/zhaoshiyu/Timesam_1/MA-SAM/cuda_sifa/src/vision.cpp
+/home/zhaoshiyu/Timesam_1/MA-SAM/cuda_sifa/src/cuda/defcor_agg_cuda.cu
+/home/zhaoshiyu/Timesam_1/MA-SAM/cuda_sifa/src/cuda/defcor_agg_im2col_cuda.cu
+DEFCOR_AGG.egg-info/PKG-INFO
+DEFCOR_AGG.egg-info/SOURCES.txt
+DEFCOR_AGG.egg-info/dependency_links.txt
+DEFCOR_AGG.egg-info/top_level.txt
